@@ -1,0 +1,623 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-wrapper {
+  background-color: #ffffff;
+  height: 5990px;
+  width: 1440px;
+}
+
+.desktop .overlap-3 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(3, 1, 77, 0.9) 0%,
+    rgb(0, 122, 255) 24.4%,
+    rgb(16, 25, 58) 55.91%,
+    rgba(217, 160, 91, 0.95) 78.87%,
+    rgb(3, 0, 77) 100%
+  );
+  height: 5990px;
+  position: relative;
+}
+
+.desktop .overlap-group-wrapper {
+  height: 294px;
+  left: 0;
+  position: absolute;
+  top: 5695px;
+  width: 1440px;
+}
+
+.desktop .overlap-group-2 {
+  height: 294px;
+  position: relative;
+}
+
+.desktop .rectangle-2 {
+  height: 272px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 1440px;
+}
+
+.desktop .copyrights-2 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  left: 630px;
+  padding: 5px;
+  position: absolute;
+  top: 258px;
+  width: 179px;
+}
+
+.desktop .text-wrapper-7 {
+  color: #000000b0;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -1.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop .copyright-2 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.desktop .text-wrapper-8 {
+  color: #000000b0;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop .up-2 {
+  height: 67px;
+  left: 682px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.desktop .icons {
+  height: 55px;
+  left: 505px;
+  position: absolute;
+  top: 126px;
+  width: 430px;
+}
+
+.desktop .figma {
+  height: 55px;
+  left: 150px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop .github {
+  height: 55px;
+  left: 225px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop .gmail {
+  height: 55px;
+  left: 75px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop .facebook {
+  height: 55px;
+  left: 300px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop .l-inked-in {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop .twitter {
+  height: 55px;
+  left: 375px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop .certificates {
+  height: 2192px;
+  left: 108px;
+  position: absolute;
+  top: 3231px;
+  width: 1207px;
+}
+
+.desktop .java-NIIT {
+  height: 484px;
+  left: 0;
+  position: absolute;
+  top: 1183px;
+  width: 537px;
+}
+
+.desktop .python {
+  height: 464px;
+  left: 137px;
+  position: absolute;
+  top: 1728px;
+  width: 540px;
+}
+
+.desktop .maths {
+  height: 464px;
+  left: 687px;
+  position: absolute;
+  top: 1728px;
+  width: 520px;
+}
+
+.desktop .automation {
+  height: 484px;
+  left: 547px;
+  position: absolute;
+  top: 93px;
+  width: 540px;
+}
+
+.desktop .AWS-prompt {
+  height: 484px;
+  left: 0;
+  position: absolute;
+  top: 93px;
+  width: 537px;
+}
+
+.desktop .CSS {
+  height: 484px;
+  left: 687px;
+  position: absolute;
+  top: 638px;
+  width: 520px;
+}
+
+.desktop .oracle {
+  height: 484px;
+  left: 547px;
+  position: absolute;
+  top: 1183px;
+  width: 540px;
+}
+
+.desktop .HTML {
+  height: 484px;
+  left: 137px;
+  position: absolute;
+  top: 638px;
+  width: 540px;
+}
+
+.desktop .certificate-section {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 248px;
+}
+
+.desktop .overlap-group-3 {
+  height: 50px;
+  position: relative;
+  width: 246px;
+}
+
+.desktop .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Source Serif Pro", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 246px;
+}
+
+.desktop .line {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 46px;
+  width: 150px;
+}
+
+.desktop .line-2 {
+  height: 4px;
+  left: 160px;
+  position: absolute;
+  top: 46px;
+  width: 86px;
+}
+
+.desktop .frame-2 {
+  height: 2752px;
+  left: 108px;
+  position: absolute;
+  top: 372px;
+  width: 1223px;
+}
+
+.desktop .programming {
+  height: 417px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1225px;
+}
+
+.desktop .overlap-group-4 {
+  height: 417px;
+  position: relative;
+  width: 1223px;
+}
+
+.desktop .rectangle-3 {
+  background-color: #00000040;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #00000040;
+  height: 404px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 1210px;
+}
+
+.desktop .rectangle-4 {
+  background: linear-gradient(
+    180deg,
+    rgb(225.25, 195.06, 158.61) 0%,
+    rgb(52.83, 139.42, 234.81) 100%
+  );
+  border-radius: 10px;
+  height: 406px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1213px;
+}
+
+.desktop .group-2 {
+  height: 35px;
+  left: 59px;
+  position: absolute;
+  top: 330px;
+  width: 583px;
+}
+
+.desktop .group-3 {
+  height: 224px;
+  left: 59px;
+  position: absolute;
+  top: 92px;
+  width: 664px;
+}
+
+.desktop .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Crimson Pro-MediumItalic", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 654px;
+}
+
+.desktop .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Crimson Pro-MediumItalic", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 38px;
+  width: 654px;
+}
+
+.desktop .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Crimson Pro-MediumItalic", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 100px;
+  width: 654px;
+}
+
+.desktop .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Crimson Pro-MediumItalic", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 162px;
+  width: 654px;
+}
+
+.desktop .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Crimson Pro-MediumItalic", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 200px;
+  width: 654px;
+}
+
+.desktop .text-wrapper-15 {
+  color: #f5f5f5;
+  font-family: "Crimson Pro-SemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.desktop .rectangle-5 {
+  height: 350px;
+  left: 804px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 350px;
+}
+
+.desktop .software {
+  height: 417px;
+  left: 0;
+  position: absolute;
+  top: 467px;
+  width: 1225px;
+}
+
+.desktop .group-4 {
+  height: 35px;
+  left: 59px;
+  position: absolute;
+  top: 320px;
+  width: 583px;
+}
+
+.desktop .group-5 {
+  height: 172px;
+  left: 59px;
+  position: absolute;
+  top: 92px;
+  width: 660px;
+}
+
+.desktop .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Crimson Pro-MediumItalic", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  width: 654px;
+}
+
+.desktop .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Crimson Pro-MediumItalic", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 148px;
+  width: 654px;
+}
+
+.desktop .AI-2 {
+  height: 417px;
+  left: 0;
+  position: absolute;
+  top: 934px;
+  width: 1225px;
+}
+
+.desktop .group-6 {
+  height: 196px;
+  left: 59px;
+  position: absolute;
+  top: 92px;
+  width: 660px;
+}
+
+.desktop .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Crimson Pro-MediumItalic", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+  width: 654px;
+}
+
+.desktop .UI {
+  height: 417px;
+  left: 0;
+  position: absolute;
+  top: 1401px;
+  width: 1225px;
+}
+
+.desktop .rectangle-6 {
+  height: 350px;
+  left: 804px;
+  position: absolute;
+  top: 28px;
+  width: 350px;
+}
+
+.desktop .cloud {
+  height: 417px;
+  left: 0;
+  position: absolute;
+  top: 1868px;
+  width: 1225px;
+}
+
+.desktop .project-management {
+  height: 417px;
+  left: 0;
+  position: absolute;
+  top: 2335px;
+  width: 1225px;
+}
+
+.desktop .group-7 {
+  height: 210px;
+  left: 59px;
+  position: absolute;
+  top: 92px;
+  width: 662px;
+}
+
+.desktop .text-wrapper-19 {
+  color: #f5f5f5;
+  font-family: "Source Serif Pro", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 190px;
+}
+
+.desktop .homepage-header {
+  background: linear-gradient(
+    180deg,
+    rgb(217, 160, 91) 35.56%,
+    rgb(27, 38, 79) 72.17%
+  );
+  box-shadow: 0px 4px 4px #00000040;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .unnamed-removebg-2 {
+  height: 60px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.desktop .frame-3 {
+  height: 30px;
+  left: 928px;
+  position: absolute;
+  top: 15px;
+  width: 403px;
+}
+
+.desktop .return-to-hompage {
+  height: 28px;
+  left: 198px;
+  position: absolute;
+  top: 1px;
+  width: 199px;
+}
+
+.desktop .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Crimson Pro-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.desktop .certifications {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 138px;
+}

@@ -1,0 +1,496 @@
+.desktop-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-screen .desktop-2 {
+  background-color: #ffffff;
+  height: 7353px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-screen .overlap-13 {
+  background-image: url(../../../static/img/background-3-1.png);
+  background-size: 100% 100%;
+  height: 7293px;
+  left: 0;
+  position: absolute;
+  top: 60px;
+  width: 1440px;
+}
+
+.desktop-screen .work-exp-list {
+  height: 6033px;
+  left: 360px;
+  position: absolute;
+  top: 850px;
+  width: 1038px;
+}
+
+.desktop-screen .management-4 {
+  background-image: url(../../../static/img/rectangle-183-4.png);
+  background-size: 100% 100%;
+  height: 881px;
+  left: 0;
+  position: absolute;
+  top: 5152px;
+  width: 1038px;
+}
+
+.desktop-screen .management-project-2 {
+  color: var(--variable-collection-text-color);
+  font-family: "Crimson Text", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 835px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 950px;
+}
+
+.desktop-screen .text-wrapper-96 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.desktop-screen .text-wrapper-97 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.desktop-screen .text-wrapper-98 {
+  font-size: 20px;
+}
+
+.desktop-screen .software-and-cloud-2 {
+  background-image: url(../../../static/img/rectangle-183-5.png);
+  background-size: 100% 100%;
+  height: 832px;
+  left: 0;
+  position: absolute;
+  top: 4185px;
+  width: 1038px;
+}
+
+.desktop-screen .software-and-cloud-3 {
+  color: var(--variable-collection-text-color);
+  font-family: "Crimson Text", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 786px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 950px;
+}
+
+.desktop-screen .text-wrapper-99 {
+  font-weight: 700;
+}
+
+.desktop-screen .AI-5 {
+  background-image: url(../../../static/img/rectangle-183-6.png);
+  background-size: 100% 100%;
+  height: 1154px;
+  left: 0;
+  position: absolute;
+  top: 2896px;
+  width: 1038px;
+}
+
+.desktop-screen .artificial-2 {
+  color: var(--variable-collection-text-color);
+  font-family: "Crimson Text", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  height: 1108px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 950px;
+}
+
+.desktop-screen .product-design-3 {
+  background-image: url(../../../static/img/rectangle-183-7.png);
+  background-size: 100% 100%;
+  height: 1066px;
+  left: 0;
+  position: absolute;
+  top: 1695px;
+  width: 1038px;
+}
+
+.desktop-screen .product-design-UI-UX-2 {
+  color: var(--variable-collection-text-color);
+  font-family: "Crimson Text", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 1020px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 950px;
+}
+
+.desktop-screen .full-stack-4 {
+  background-image: url(../../../static/img/rectangle-182-1.png);
+  background-size: 100% 100%;
+  height: 1560px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1038px;
+}
+
+.desktop-screen .full-stack-5 {
+  color: #000000d9;
+  font-family: "Crimson Text", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  height: 1514px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 950px;
+}
+
+.desktop-screen .side-list {
+  background: linear-gradient(
+    180deg,
+    rgb(97, 97, 97) 0%,
+    rgba(217, 160, 91, 0.5) 3%
+  );
+  height: 823px;
+  left: 0;
+  position: absolute;
+  top: 770px;
+  width: 318px;
+}
+
+.desktop-screen .portfolio-list-2 {
+  height: 324px;
+  left: 20px;
+  position: relative;
+  top: 168px;
+  width: 278px;
+}
+
+.desktop-screen .group-19 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.desktop-screen .overlap-group-22 {
+  background-image: url(../../../static/img/union-4.png);
+  background-size: 100% 100%;
+  height: 40px;
+  position: relative;
+  width: 278px;
+}
+
+.desktop-screen .text-wrapper-100 {
+  color: #d9a05b;
+  font-family: "Crimson Text-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  height: 26px;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 238px;
+}
+
+.desktop-screen .group-20 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 252px;
+}
+
+.desktop-screen .overlap-14 {
+  background: linear-gradient(
+    180deg,
+    rgba(217, 160, 91, 0) 93.4%,
+    rgb(115, 84.79, 48.23) 100%
+  );
+  height: 40px;
+  position: relative;
+  width: 250px;
+}
+
+.desktop-screen .text-wrapper-101 {
+  color: #1b1b1b;
+  font-family: "Crimson Text", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 26px;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 238px;
+}
+
+.desktop-screen .group-21 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 140px;
+  width: 252px;
+}
+
+.desktop-screen .group-22 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 210px;
+  width: 252px;
+}
+
+.desktop-screen .group-23 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 280px;
+  width: 252px;
+}
+
+.desktop-screen .portfolio-page-title {
+  background-image: url(../../../static/img/rectangle-181-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 770px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-screen .text-wrapper-102 {
+  color: #ffffff;
+  font-family: "Source Serif Pro", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  left: 276px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 323px;
+  width: 888px;
+}
+
+.desktop-screen .text-wrapper-103 {
+  color: #ffffff;
+  font-family: "Source Serif Pro", Helvetica;
+  font-size: 35px;
+  font-weight: 600;
+  left: 276px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 176px;
+}
+
+.desktop-screen .bottom {
+  height: 219px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 7073px;
+  width: 1440px;
+}
+
+.desktop-screen .overlap-15 {
+  height: 219px;
+  position: relative;
+}
+
+.desktop-screen .rectangle-12 {
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 1440px;
+}
+
+.desktop-screen .copyrights-5 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  height: 33px;
+  justify-content: center;
+  left: 630px;
+  padding: 5px;
+  position: absolute;
+  top: 186px;
+  width: 179px;
+}
+
+.desktop-screen .text-wrapper-104 {
+  color: #000000b0;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.59px;
+  margin-left: -1.00px;
+  margin-top: -2.59px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop-screen .copyright-4 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.desktop-screen .text-wrapper-105 {
+  color: #000000b0;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.59px;
+  margin-right: -1.00px;
+  margin-top: -2.59px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop-screen .icons-3 {
+  height: 50px;
+  left: 505px;
+  position: absolute;
+  top: 94px;
+  width: 430px;
+}
+
+.desktop-screen .figma-3 {
+  height: 50px;
+  left: 150px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop-screen .github-3 {
+  height: 50px;
+  left: 225px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop-screen .gmail-3 {
+  height: 50px;
+  left: 75px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop-screen .facebook-3 {
+  height: 50px;
+  left: 300px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop-screen .l-inked-in-3 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop-screen .twitter-3 {
+  height: 50px;
+  left: 375px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.desktop-screen .up-5 {
+  height: 67px;
+  left: 682px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.desktop-screen .homepage-header-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(217, 160, 91) 35.56%,
+    rgb(27, 38, 79) 72.17%
+  );
+  box-shadow: 0px 4px 4px #00000040;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-screen .unnamed-removebg-6 {
+  height: 60px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.desktop-screen .return-to-hompage-2 {
+  height: 28px;
+  left: 1132px;
+  position: absolute;
+  top: 16px;
+  width: 199px;
+}
+
+.desktop-screen .text-wrapper-106 {
+  color: #ffffff;
+  font-family: "Crimson Pro-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}

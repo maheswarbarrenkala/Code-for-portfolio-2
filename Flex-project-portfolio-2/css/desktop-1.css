@@ -1,0 +1,3685 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 7383px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-1 .homepage {
+  align-items: flex-start;
+  display: flex;
+  height: 900px;
+  min-width: 1446px;
+}
+
+.desktop-1 .overlap-group3-1 {
+  align-items: center;
+  background-image: url(../img/software-developer-6521720-1920-1-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 118px;
+  min-height: 900px;
+  width: 1440px;
+}
+
+.desktop-1 .homepage-header {
+  align-items: center;
+  display: flex;
+  gap: 500px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 0 52px;
+}
+
+.desktop-1 .unnamed__1_-removebg-preview-1-1 {
+  height: 80px;
+  object-fit: cover;
+  width: 80px;
+}
+
+.desktop-1 .frame-189 {
+  align-items: center;
+  display: inline-flex;
+  gap: 30px;
+  margin-bottom: 1.0px;
+  padding: 0px 37px;
+  position: relative;
+}
+
+.desktop-1 .home {
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  justify-content: center;
+  position: relative;
+  width: 73px;
+}
+
+.desktop-1 .place-1 {
+  height: 28px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.desktop-1 .about-2 {
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  justify-content: center;
+  position: relative;
+  width: 75px;
+}
+
+.desktop-1 .about-3 {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.desktop-1 .skills-2 {
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  justify-content: center;
+  position: relative;
+  width: 66px;
+}
+
+.desktop-1 .skills-3 {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.desktop-1 .portfolio-2 {
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  justify-content: center;
+  position: relative;
+  width: 108px;
+}
+
+.desktop-1 .portfolio-3 {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.desktop-1 .resume {
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  position: relative;
+  width: 81px;
+}
+
+.desktop-1 .resume-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.desktop-1 .place-2 {
+  height: 33px;
+  width: 81px;
+}
+
+.desktop-1 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 280px;
+  height: 375px;
+  margin-left: 22.0px;
+  min-width: 1240px;
+}
+
+.desktop-1 .flex-col-1 {
+  align-items: flex-start;
+  min-height: 356px;
+  width: 563px;
+}
+
+.desktop-1 .hello-im-maheswar-barrenkala-1 {
+  color: transparent;
+  font-family: var(--font-family-crimson_text);
+  font-size: 42px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 55px;
+  opacity: 0;
+}
+
+.desktop-1 .span-2 {
+  color: var(--white);
+}
+
+.desktop-1 .span1-2 {
+  color: var(--violet-red);
+  font-family: var(--font-family-crimson_text-semibold);
+  font-weight: 600;
+}
+
+.desktop-1 .hello-im-maheswar-barrenkala-1.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 0.20s ease-in 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop-1 .lead-solutions-archi-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 64px;
+  opacity: 0;
+  width: 423px;
+}
+
+.desktop-1 .lead-solutions-archi-1.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop-1 .my-work-2 {
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 55px;
+  margin-top: 157px;
+  opacity: 0;
+  transition: all 0.2s ease;
+  width: 170px;
+}
+
+.desktop-1 .my-work-2.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop-1 .my-work-2:hover {
+  opacity: 1;
+}
+
+.desktop-1 .overlap-group-12 {
+  height: 56px;
+  position: relative;
+}
+
+.desktop-1 .rectangle-47-1 {
+  background-blend-mode: difference;
+  background-color: var(--white);
+  border-radius: 15px;
+  filter: blur(2px);;
+  height: 55px;
+  left: 0;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.desktop-1 .my-work-3 {
+  color: var(--white);
+  font-family: var(--font-family-crimson_pro-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 55px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 107px;
+}
+
+.desktop-1 .arrow-8-1 {
+  height: 15px;
+  left: 133px;
+  position: absolute;
+  top: 21px;
+  width: 22px;
+}
+
+.desktop-1 .full-stack-maestro-1 {
+  align-self: flex-end;
+  color: transparent;
+  font-family: var(--font-family-times_new_roman-bold);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 179px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0;
+  text-align: right;
+  width: 397px;
+}
+
+.desktop-1 .span-4 {
+  color: var(--white);
+  font-weight: 700;
+}
+
+.desktop-1 .span5 {
+  color: var(--white);
+  font-family: var(--font-family-times_new_roman-regular);
+}
+
+.desktop-1 .full-stack-maestro-1.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop-1 .header {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(27, 38, 79) 27.4%, rgba(217, 160, 91, 0.95) 80.95%);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  width: 1440px;
+}
+
+.desktop-1 .overlap-group2-1 {
+  height: 58px;
+  position: relative;
+  width: 799px;
+}
+
+.desktop-1 .line-7 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 799px;
+}
+
+.desktop-1 .frame-189-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 35px;
+  height: 56px;
+  justify-content: center;
+  left: 1px;
+  padding: 10px 50px;
+  position: absolute;
+  top: 0;
+  width: 730px;
+}
+
+.desktop-1 .home-1 {
+  display: flex;
+  height: 33px;
+  justify-content: center;
+  margin-left: -14.50px;
+  position: relative;
+  width: 73px;
+}
+
+.desktop-1 .contact-2 {
+  margin-right: -14.50px;
+}
+
+.desktop-1 .line-8 {
+  height: 4px;
+  margin-left: 35px;
+  width: 200px;
+}
+
+.desktop-1 .line-10 {
+  height: 4px;
+  margin-left: 36px;
+  width: 200px;
+}
+
+.desktop-1 .unnamed__1_-removebg-preview-1-2 {
+  height: 60px;
+  margin-left: 80px;
+  object-fit: cover;
+  width: 70px;
+}
+
+.desktop-1 .overlap-group4-1 {
+  height: 6424px;
+  margin-left: -2px;
+  position: relative;
+  width: 1706px;
+}
+
+.desktop-1 .homepage-background {
+  height: 4782px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-1 .resume-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 1006px;
+  left: 2px;
+  position: absolute;
+  top: 4753px;
+  width: 1704px;
+}
+
+.desktop-1 .overlap-group-13 {
+  height: 1006px;
+  position: relative;
+  width: 1704px;
+}
+
+.desktop-1 .rectangle-163 {
+  background-color: #03004d;
+  height: 700px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-1 .designer-1-1 {
+  height: 512px;
+  left: 35px;
+  position: absolute;
+  top: 76px;
+  width: 626px;
+}
+
+.desktop-1 .group-193 {
+  box-shadow: inset -12px 50px 50px #03004d80;
+  display: flex;
+  height: 641px;
+  left: 954px;
+  position: absolute;
+  top: 365px;
+  width: 750px;
+}
+
+.desktop-1 .union-1 {
+  height: 641px;
+  width: 486px;
+}
+
+.desktop-1 .frame-212 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  left: 802px;
+  position: absolute;
+  top: 180px;
+  width: 489px;
+}
+
+.desktop-1 .want-to-have-look-at-my-resume-1 {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-figma_hand-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.desktop-1 .resume-doc-1 {
+  height: 114px;
+  position: relative;
+  width: 114px;
+}
+
+.desktop-1 .download-pdf-2 {
+  background-color: #1c71ce;
+  border-radius: 10px;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  position: relative;
+  width: 136px;
+}
+
+.desktop-1 .download-pdf-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 120px;
+}
+
+.desktop-1 .contact-information-end-page {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(3, 0, 77) 0%, rgb(1, 10, 39) 100%);
+  display: flex;
+  gap: 228px;
+  height: 971px;
+  left: 2px;
+  padding: 110px 150px;
+  position: absolute;
+  top: 5453px;
+  width: 1440px;
+}
+
+.desktop-1 .overlap-group-14 {
+  height: 48px;
+  margin-top: 165px;
+  position: relative;
+  width: 131px;
+}
+
+.desktop-1 .place-3 {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.desktop-1 .line-5-4 {
+  left: 2px;
+  top: 42px;
+  width: 80px;
+}
+
+.desktop-1 .line-6-4 {
+  left: 96px;
+  top: 42px;
+  width: 35px;
+}
+
+.desktop-1 .flex-col-2 {
+  align-items: center;
+  min-height: 360px;
+  width: 423px;
+}
+
+.desktop-1 .want-to-work-together-1 {
+  color: var(--white);
+  font-family: var(--font-family-figma_hand-regular);
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 423px;
+  text-align: center;
+}
+
+.desktop-1 .lets-connect-1 {
+  align-items: center;
+  background-color: var(--violet-red);
+  border-radius: 10px;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin-right: 1.29px;
+  margin-top: 24px;
+  width: 286px;
+}
+
+.desktop-1 .lets-connect-2 {
+  color: var(--white);
+  font-family: var(--font-family-crimson_pro-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.3px;
+  margin-top: 0;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.desktop-1 .contact-me-1 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(225.25, 195.06, 158.61) 0%, rgb(52.83, 139.42, 234.81) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  margin-top: 102px;
+  min-height: 37px;
+  min-width: 151px;
+  text-align: center;
+  text-decoration: underline;
+  text-fill-color: transparent;
+  white-space: nowrap;
+}
+
+.desktop-1 .saimaheswar0024gmailcom-2 {
+  display: flex;
+  height: 29px;
+  margin-left: 3.0px;
+  margin-top: 35px;
+  width: 286px;
+}
+
+.desktop-1 .saimaheswar0024gmailcom-3 {
+  color: var(--white);
+  flex: 1;
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 286px;
+}
+
+.desktop-1 .maheswarbarrenkalagmailcom-2 {
+  display: flex;
+  height: 29px;
+  margin-left: 3.0px;
+  margin-top: 20px;
+  width: 342px;
+}
+
+.desktop-1 .maheswarbarrenkalagmailcom-3 {
+  color: var(--white);
+  flex: 1;
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 342px;
+}
+
+.desktop-1 .buttom {
+  align-items: flex-start;
+  display: flex;
+  height: 294px;
+  left: 2px;
+  position: absolute;
+  top: 6130px;
+  width: 1440px;
+}
+
+.desktop-1 .overlap-group1-1 {
+  height: 293px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-1 .rectangle-140-1 {
+  height: 272px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 1440px;
+}
+
+.desktop-1 .copyrights-1 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  left: 630px;
+  padding: 5px;
+  position: absolute;
+  top: 257px;
+  width: 179px;
+}
+
+.desktop-1 .maheswar {
+  color: var(--black-3);
+  font-family: var(--font-family-ibm_plex_sans-semibold);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -2.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop-1 .copyright-1 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.desktop-1 .number {
+  color: var(--black-3);
+  font-family: var(--font-family-ibm_plex_sans-semibold);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -2.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop-1 .icons {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 55px;
+  left: 505px;
+  min-width: 430px;
+  position: absolute;
+  top: 129px;
+}
+
+.desktop-1 .icons-item {
+  height: 55px;
+  width: 55px;
+}
+
+.desktop-1 .up-1 {
+  height: 67px;
+  left: 682px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.desktop-1 .portfolio-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 1229px;
+  left: 2px;
+  min-width: 1440px;
+  padding: 31px 150px;
+  position: absolute;
+  top: 3524px;
+}
+
+.desktop-1 .overlap-group1-2 {
+  height: 48px;
+  margin-top: 122px;
+  position: relative;
+  width: 149px;
+}
+
+.desktop-1 .portfolio-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-1 .line-5-5 {
+  left: 0;
+  top: 44px;
+  width: 85px;
+}
+
+.desktop-1 .line-6-5 {
+  left: 102px;
+  top: 44px;
+  width: 45px;
+}
+
+.desktop-1 .flex-col-3 {
+  align-items: flex-start;
+  gap: 50px;
+  margin-left: 294px;
+  min-height: 1000px;
+  width: 255px;
+}
+
+.desktop-1 .full-stack-1 {
+  background-image: url(../img/rectangle-157-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  box-shadow: -5px -5px 20px #00000080 , 5px 5px 20px #00000080;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  width: 255px;
+}
+
+.desktop-1 .text_full-stack-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3765px;
+  height: 300px;
+  margin-left: 4px;
+  margin-top: 300px;
+  min-width: 259px;
+}
+
+.desktop-1 .develop-container-1 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 0;
+  width: 255px;
+}
+
+.desktop-1 .full-stack-development-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+  text-align: center;
+  width: 235px;
+}
+
+.desktop-1 .designing-developin-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  text-align: center;
+  width: 255px;
+}
+
+.desktop-1 .open-link_svgrepocom-5 {
+  margin-top: -5307px;
+}
+
+.desktop-1 .ai-1 {
+  background-image: url(../img/rectangle-158-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  box-shadow: -5px -5px 20px #00000080 , 5px 5px 20px #00000080;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  width: 255px;
+}
+
+.desktop-1 .group-189-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3765px;
+  height: 300px;
+  margin-left: 3.7px;
+  margin-top: 301px;
+  min-width: 258.66px;
+}
+
+.desktop-1 .overlap-group-15 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 10px;
+  width: 255px;
+}
+
+.desktop-1 .artificial-intelligence-2 {
+  align-self: center;
+  margin-left: 0.34px;
+  min-height: 31px;
+  min-width: 199px;
+}
+
+.desktop-1 .revolutionizing-the-future-with-ai-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  text-align: center;
+  width: 234px;
+}
+
+.desktop-1 .open-link_svgrepocom-6 {
+  margin-top: -5657px;
+}
+
+.desktop-1 .management-2 {
+  background-image: url(../img/rectangle-161-1@2x.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  box-shadow: -5px -5px 20px #00000080 , 5px 5px 20px #00000080;
+  display: flex;
+  overflow: hidden;
+  width: 255px;
+}
+
+.desktop-1 .group-192-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3765px;
+  height: 300px;
+  margin-top: 301px;
+  min-width: 258.66px;
+}
+
+.desktop-1 .overlap-group-16 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 22.7px;
+  width: 255px;
+}
+
+.desktop-1 .management-3 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 0.66px;
+  min-height: 31px;
+  min-width: 124px;
+  text-align: center;
+}
+
+.desktop-1 .driving-innovation-t-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 60px;
+  text-align: center;
+  width: 209px;
+}
+
+.desktop-1 .open-link_svgrepocom-7 {
+  margin-top: -5987px;
+}
+
+.desktop-1 .flex-col-4 {
+  align-items: flex-start;
+  align-self: center;
+  gap: 130px;
+  margin-bottom: 123.0px;
+  margin-left: 182px;
+  min-height: 730px;
+  width: 255px;
+}
+
+.desktop-1 .ui-ux-2 {
+  background-image: url(../img/rectangle-160-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  box-shadow: -5px -5px 20px #00000080 , 5px 5px 20px #00000080;
+  display: flex;
+  overflow: hidden;
+  width: 255px;
+}
+
+.desktop-1 .group-190-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3328px;
+  height: 300px;
+  margin-top: 301px;
+  min-width: 259px;
+}
+
+.desktop-1 .overlap-group-17 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 15.7px;
+  width: 255px;
+}
+
+.desktop-1 .ui-ux-3 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.34px;
+  min-height: 31px;
+  text-align: center;
+  width: 78px;
+}
+
+.desktop-1 .crafting-digital-sol-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  text-align: center;
+  width: 222px;
+}
+
+.desktop-1 .open-link_svgrepocom-8 {
+  margin-top: -5464px;
+}
+
+.desktop-1 .software-architecture-1 {
+  background-image: url(../img/rectangle-159-2@2x.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  box-shadow: -5px -5px 20px #00000080 , 5px 5px 20px #00000080;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  width: 255px;
+}
+
+.desktop-1 .group-191-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3328px;
+  height: 300px;
+  margin-left: 4px;
+  margin-top: 301px;
+  min-width: 259px;
+}
+
+.desktop-1 .overlap-group-18 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 20.0px;
+  width: 255px;
+}
+
+.desktop-1 .software-cloud-architecture-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.34px;
+  min-height: 62px;
+  text-align: center;
+  width: 211px;
+}
+
+.desktop-1 .building-the-backbon-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  text-align: center;
+  width: 214px;
+}
+
+.desktop-1 .open-link_svgrepocom-9 {
+  margin-top: -5863px;
+}
+
+.desktop-1 .skill {
+  align-items: flex-start;
+  display: flex;
+  gap: 328px;
+  height: 1298px;
+  left: 0;
+  padding: 21px 162px;
+  position: absolute;
+  top: 2010px;
+  width: 1438px;
+}
+
+.desktop-1 .skills-4 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 132px;
+  min-width: 93px;
+}
+
+.desktop-1 .overlap-group-19 {
+  height: 48px;
+  position: relative;
+  width: 91px;
+}
+
+.desktop-1 .skills-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 91px;
+}
+
+.desktop-1 .line-5-6 {
+  left: 0;
+  top: 44px;
+  width: 50px;
+}
+
+.desktop-1 .line-6-6 {
+  left: 61px;
+  top: 44px;
+  width: 30px;
+}
+
+.desktop-1 .frame-213 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+}
+
+.desktop-1 .skills-6 {
+  align-items: center;
+  flex-direction: column;
+  gap: 40px;
+  height: 1235.13px;
+  opacity: 0;
+  position: relative;
+  width: 263px;
+}
+
+.desktop-1 .skills-6.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop-1 .software-engineering-1 {
+  background-color: var(--parchment);
+  border-radius: 10px;
+  height: 173.11px;
+  position: relative;
+  width: 263px;
+}
+
+.desktop-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 145px;
+  position: relative;
+  top: 17px;
+  width: 233px;
+}
+
+.desktop-1 .vector-19 {
+  height: 49px;
+  width: 50px;
+}
+
+.desktop-1 .software-engineering-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 28px;
+}
+
+.desktop-1 .learn-more-3 {
+  align-self: flex-end;
+  margin-top: 39px;
+  min-height: 15px;
+  min-width: 74px;
+}
+
+.desktop-1 .skills-item {
+  align-self: stretch;
+  background-color: var(--parchment);
+  border-radius: 10px;
+  height: 173.11px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-1 .coding-1 {
+  height: 48px;
+  width: 53px;
+}
+
+.desktop-1 .programming-development-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 15px;
+  min-height: 56px;
+  width: 172px;
+}
+
+.desktop-1 .learn-more-4 {
+  align-self: flex-end;
+  margin-top: 11px;
+  min-height: 15px;
+  min-width: 74px;
+}
+
+.desktop-1 .q3-icons-1 {
+  height: 48px;
+  width: 48px;
+}
+
+.desktop-1 .emerging-technology-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 15px;
+  min-height: 28px;
+}
+
+.desktop-1 .learn-more-5 {
+  left: 179px;
+  position: absolute;
+  top: 147px;
+}
+
+.desktop-1 .design-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 20px;
+  min-height: 91px;
+  position: absolute;
+  top: 17px;
+  width: 146px;
+}
+
+.desktop-1 .design-tools-ruler-pen-pencil_svgrepocom-1 {
+  height: 48px;
+  width: 48px;
+}
+
+.desktop-1 .design-tools-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+}
+
+.desktop-1 .cloud-computing_svgrepocom-1 {
+  height: 48px;
+  width: 48px;
+}
+
+.desktop-1 .cloud-infrastructure-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 15px;
+  min-height: 28px;
+}
+
+.desktop-1 .project-management-1 {
+  align-self: stretch;
+  background-color: var(--parchment);
+  border-radius: 10px;
+  height: 173.11px;
+  margin-bottom: -3.54px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-1 .layer-2-1 {
+  height: 47px;
+  width: 47px;
+}
+
+.desktop-1 .project-management-business-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 16px;
+  min-height: 56px;
+  width: 216px;
+}
+
+.desktop-1 .about-section-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 81px;
+  left: 138px;
+  min-height: 1764px;
+  position: absolute;
+  top: 92px;
+  width: 1154px;
+}
+
+.desktop-1 .flex-row-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 153px;
+  height: 1184px;
+  min-width: 1130px;
+}
+
+.desktop-1 .about-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 90.46px;
+  width: 103px;
+}
+
+.desktop-1 .overlap-group1-3 {
+  height: 49px;
+  margin-top: -1px;
+  position: relative;
+  width: 103px;
+}
+
+.desktop-1 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-1 .line-5-7 {
+  left: 0;
+  top: 45px;
+  width: 60px;
+}
+
+.desktop-1 .line-6-7 {
+  left: 73px;
+  top: 45px;
+  width: 30px;
+}
+
+.desktop-1 .frame-190-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  min-height: 1184px;
+  width: 874px;
+}
+
+.desktop-1 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 78px;
+  margin-left: 2.5px;
+  min-width: 590px;
+}
+
+.desktop-1 .performance-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 260px;
+  width: 273px;
+}
+
+.desktop-1 .group-19-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 163.92px;
+  justify-content: flex-end;
+  margin-left: -4px;
+  min-width: 163.92px;
+  padding: 15.8px 6.0px;
+}
+
+.desktop-1 .overlap-group-20 {
+  align-items: flex-start;
+  background-image: url(../img/star-1-6@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  min-width: 136px;
+  padding: 29.2px 22.0px;
+}
+
+.desktop-1 .frame-16-1 {
+  height: 50px;
+  width: 75px;
+}
+
+.desktop-1 .performance-3 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.desktop-1 .delivering-lightning-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 269px;
+}
+
+.desktop-1 .dynamic-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 260px;
+  width: 239px;
+}
+
+.desktop-1 .group-25-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 163.92px;
+  justify-content: flex-end;
+  margin-left: -4px;
+  min-width: 158.26px;
+  padding: 15.8px 5.2px;
+}
+
+.desktop-1 .overlap-group-21 {
+  align-items: flex-start;
+  background-image: url(../img/star-2-12@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  min-width: 132px;
+  padding: 31.7px 30.3px;
+}
+
+.desktop-1 .code-snippet-02_svgrepocom-1 {
+  height: 45px;
+  width: 55px;
+}
+
+.desktop-1 .dynamic-2 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.desktop-1 .websites-dont-have-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 235px;
+}
+
+.desktop-1 .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 76px;
+  margin-left: 4.0px;
+  min-width: 878px;
+}
+
+.desktop-1 .ai-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 257px;
+  width: 242px;
+}
+
+.desktop-1 .group-122-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 164.67px;
+  justify-content: flex-end;
+  margin-left: -4px;
+  min-width: 165.88px;
+  padding: 15.9px 6.2px;
+}
+
+.desktop-1 .vector-container-5 {
+  background-image: url(../img/star-1-7@2x.png);
+  height: 121px;
+  width: 138px;
+}
+
+.desktop-1 .vector-20 {
+  height: 50px;
+  left: 36px;
+  position: absolute;
+  top: 29px;
+  width: 51px;
+}
+
+.desktop-1 .vector-21 {
+  height: 33px;
+  left: 48px;
+  position: absolute;
+  top: 38px;
+  width: 8px;
+}
+
+.desktop-1 .vector-22 {
+  height: 33px;
+  left: 66px;
+  position: absolute;
+  top: 38px;
+  width: 8px;
+}
+
+.desktop-1 .artificial-intelligence-3 {
+  height: 30px;
+  margin-left: -4px;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.desktop-1 .ing {
+  height: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-1 .responsive-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 260px;
+  width: 242px;
+}
+
+.desktop-1 .group-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 163.92px;
+  justify-content: flex-end;
+  margin-left: -4px;
+  min-width: 166.02px;
+  padding: 15.8px 6.2px;
+}
+
+.desktop-1 .overlap-group-22 {
+  align-items: flex-start;
+  background-image: url(../img/star-3-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  min-width: 138px;
+  padding: 24.2px 23.3px;
+}
+
+.desktop-1 .responsive-design-symbol_svgrepocom-1 {
+  height: 63px;
+  width: 75px;
+}
+
+.desktop-1 .responsive-2 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 125px;
+}
+
+.desktop-1 .building-websites-th-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-1 .interactive-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 260px;
+  width: 242px;
+}
+
+.desktop-1 .overlap-group-23 {
+  align-items: flex-start;
+  background-image: url(../img/star-3-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  min-width: 138px;
+  padding: 26.2px 40.5px;
+}
+
+.desktop-1 .idea_svgrepocom-1 {
+  height: 55px;
+  width: 41px;
+}
+
+.desktop-1 .interactive-2 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.desktop-1 .surname-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-1 .cloud-computing-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 256px;
+  width: 242px;
+}
+
+.desktop-1 .group-12-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 163.92px;
+  justify-content: flex-end;
+  margin-left: -4px;
+  min-width: 166.02px;
+  padding: 15.8px 6.2px;
+}
+
+.desktop-1 .overlap-group-24 {
+  align-items: flex-start;
+  background-image: url(../img/star-3-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  min-width: 138px;
+  padding: 26.7px 35.5px;
+}
+
+.desktop-1 .cloud-computing-2 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 201px;
+}
+
+.desktop-1 .software-architecture-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 260px;
+  width: 242px;
+}
+
+.desktop-1 .group-124 {
+  height: 163.92px;
+  margin-left: -4.0px;
+  width: 166.02px;
+}
+
+.desktop-1 .software-architect-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 210.66px;
+}
+
+.desktop-1 .crafting-robust-and-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-1 .mobile-application-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 260px;
+  width: 242px;
+}
+
+.desktop-1 .vector-container-4 {
+  background-image: url(../img/star-3-3@2x.png);
+  height: 120px;
+  width: 138px;
+}
+
+.desktop-1 .vector-23 {
+  height: 62px;
+  left: 39px;
+  position: absolute;
+  top: 23px;
+  width: 46px;
+}
+
+.desktop-1 .vector-24 {
+  height: 8px;
+  left: 66px;
+  position: absolute;
+  top: 43px;
+  width: 8px;
+}
+
+.desktop-1 .vector-25 {
+  height: 7px;
+  left: 49px;
+  position: absolute;
+  top: 60px;
+  width: 7px;
+}
+
+.desktop-1 .vector-26 {
+  height: 20px;
+  left: 50px;
+  position: absolute;
+  top: 43px;
+  width: 19px;
+}
+
+.desktop-1 .vector-27 {
+  height: 8px;
+  left: 64px;
+  position: absolute;
+  top: 58px;
+  width: 9px;
+}
+
+.desktop-1 .mobile-application-2 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 216.73px;
+}
+
+.desktop-1 .designing-and-develo-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-1 .flex-row-4 {
+  align-items: center;
+  display: flex;
+  gap: 76px;
+  margin-left: 4.06px;
+  min-width: 560px;
+}
+
+.desktop-1 .project-mangament {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 260px;
+  margin-top: 0;
+  width: 242px;
+}
+
+.desktop-1 .group-126-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 163.91px;
+  justify-content: flex-end;
+  margin-left: -4px;
+  min-width: 165.93px;
+  padding: 15.8px 6.2px;
+}
+
+.desktop-1 .vector-container-6 {
+  background-image: url(../img/star-2-14@2x.png);
+  height: 120px;
+  width: 137px;
+}
+
+.desktop-1 .vector-28 {
+  height: 40px;
+  left: 31px;
+  position: absolute;
+  top: 33px;
+  width: 59px;
+}
+
+.desktop-1 .vector-29 {
+  height: 10px;
+  left: 70px;
+  position: absolute;
+  top: 27px;
+  width: 10px;
+}
+
+.desktop-1 .vector-30 {
+  height: 8px;
+  left: 38px;
+  position: absolute;
+  top: 40px;
+  width: 14px;
+}
+
+.desktop-1 .project-management-2 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 233px;
+}
+
+.desktop-1 .guiding-teams-to-ach-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 237.87px;
+}
+
+.desktop-1 .product-design-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 260px;
+  width: 242px;
+}
+
+.desktop-1 .vector-31 {
+  height: 47px;
+  left: 37px;
+  position: absolute;
+  top: 31px;
+  width: 47px;
+}
+
+.desktop-1 .vector-32 {
+  height: 5px;
+  left: 42px;
+  position: absolute;
+  top: 35px;
+  width: 5px;
+}
+
+.desktop-1 .vector-33 {
+  height: 5px;
+  left: 48px;
+  position: absolute;
+  top: 35px;
+  width: 5px;
+}
+
+.desktop-1 .vector-34 {
+  height: 5px;
+  left: 53px;
+  position: absolute;
+  top: 35px;
+  width: 5px;
+}
+
+.desktop-1 .vector-35 {
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 45px;
+  width: 31px;
+}
+
+.desktop-1 .vector-36 {
+  height: 16px;
+  left: 54px;
+  position: absolute;
+  top: 57px;
+  width: 14px;
+}
+
+.desktop-1 .product-design-2 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.desktop-1 .creating-innovative-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4px;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-1 .frame-34-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  width: 1131px;
+}
+
+.desktop-1 .dp-1 {
+  height: 500px;
+  margin-left: 32px;
+  object-fit: cover;
+  width: 459px;
+}
+
+.desktop-1 .flex-col-5 {
+  align-items: center;
+  margin-top: 2px;
+  min-height: 408px;
+  width: 579px;
+}
+
+.desktop-1 .whos-this-guy-1 {
+  color: var(--white);
+  font-family: var(--font-family-times_new_roman-bold);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 46px;
+  min-width: 285px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.desktop-1 .im-a-tech-obsessed-1 {
+  color: transparent;
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 192px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 74px;
+  text-align: center;
+  width: 579px;
+}
+
+.desktop-1 .span-5 {
+  color: var(--tutu);
+}
+
+.desktop-1 .span1-3 {
+  color: var(--black);
+  font-family: var(--font-family-times_new_roman-bolditalic);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.desktop-1 .span2-1 {
+  color: var(--violet-red);
+  font-family: var(--font-family-times_new_roman-bolditalic);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.desktop-1 .lets-create-something-amazing-together {
+  color: var(--di-serria-2);
+  font-family: var(--font-family-times_new_roman-bold);
+  font-size: 32px;
+  font-weight: 700;
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  margin-top: 59px;
+  min-width: 553px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.desktop-1 .artificial-intelligence {
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}
+
+.desktop-1 .contact {
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  justify-content: center;
+  position: relative;
+  width: 81px;
+}
+
+.desktop-1 .flex-col-6 {
+  display: flex;
+  flex-direction: column;
+}
+
+.desktop-1 .learn-more {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-1 .line-5 {
+  height: 4px;
+  position: absolute;
+}
+
+.desktop-1 .line-6 {
+  height: 4px;
+  position: absolute;
+}
+
+.desktop-1 .open-link_svgrepocom {
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+}
+
+.desktop-1 .place {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-1 .vector-container {
+  background-size: 100% 100%;
+  position: relative;
+}
+/* screen - iphone-16-pro-max-1-all-breakpoints */
+
+.iphone-16-pro-max-1-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 9551px;
+  overflow: hidden;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group5 {
+  height: 785px;
+  position: relative;
+  width: 446px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-191-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 787px;
+  padding: 89px 19px;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .hello-im-maheswar-barrenkala {
+  align-self: flex-end;
+  color: transparent;
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 32px;
+  min-width: 400px;
+  opacity: 0;
+  white-space: nowrap;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .span1 {
+  color: var(--violet-red);
+  font-family: var(--font-family-times_new_roman-bold);
+  font-weight: 700;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .hello-im-maheswar-barrenkala.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-pro-max-1-all-breakpoints .lead-solutions-archi {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  margin-top: 14px;
+  min-height: 42px;
+  width: 227px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .full-stack-maestro {
+  align-self: flex-end;
+  color: transparent;
+  font-family: var(--font-family-times_new_roman-bold);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 108px;
+  margin-right: 2px;
+  margin-top: 88px;
+  text-align: right;
+  width: 252px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .span6 {
+  color: var(--white);
+  font-family: var(--font-family-times_new_roman-regular);
+}
+
+.iphone-16-pro-max-1-all-breakpoints .my-work {
+  align-items: flex-end;
+  display: flex;
+  height: 50px;
+  margin-left: 14px;
+  margin-top: 191px;
+  min-width: 155px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group {
+  height: 55px;
+  margin-bottom: -4.5px;
+  position: relative;
+  width: 155px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .rectangle-47 {
+  background-blend-mode: difference;
+  background-color: var(--white);
+  border-radius: 15px;
+  filter: blur(2px);;
+  height: 50px;
+  opacity: 0.15;
+  top: 0;
+  width: 155px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .my-work-1 {
+  color: var(--white);
+  font-family: var(--font-family-crimson_pro-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 55px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 107px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .arrow-8 {
+  height: 15px;
+  left: 125px;
+  position: absolute;
+  top: 21px;
+  width: 22px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .mobile-header-bar {
+  -webkit-backdrop-filter: blur(200px) brightness(100%);
+  backdrop-filter: blur(200px) brightness(100%);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-184 {
+  align-items: center;
+  background-color: #0000004c;
+  display: flex;
+  flex: 1;
+  gap: 285px;
+  min-width: 440px;
+  padding: 0 21px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .unnamed__1_-removebg-preview-1 {
+  height: 60px;
+  object-fit: cover;
+  width: 60px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group4 {
+  height: 8766px;
+  position: relative;
+  width: 444px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .mobile-background {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(3, 1, 77) 0%, rgb(0, 122, 255) 24.4%, rgb(16, 25, 58) 55.91%, rgba(217, 160, 91, 0.95) 78.87%, rgb(3, 0, 77) 100%);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 7544px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .resume-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 748px;
+  left: 0;
+  position: absolute;
+  top: 7173px;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .want-to-have-look-at-my-resume {
+  color: var(--white);
+  font-family: var(--font-family-figma_hand-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: -1px;
+  min-height: 60px;
+  text-align: center;
+  width: 371px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .resume-doc {
+  height: 114px;
+  margin-top: 31px;
+  width: 114px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group1 {
+  height: 506px;
+  margin-top: 30px;
+  position: relative;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .download-pdf {
+  background-color: #1c71ce;
+  border-radius: 10px;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  left: 152px;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .download-pdf-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 120px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-1 {
+  height: 505px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .union {
+  height: 220px;
+  left: 300px;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .designer-1 {
+  height: 372px;
+  left: 0;
+  position: absolute;
+  top: 133px;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group2 {
+  align-items: center;
+  background-color: #030245;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 853px;
+  position: absolute;
+  top: 7913px;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .contact {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-left: 1.0px;
+  margin-top: 40px;
+  min-height: 38px;
+  width: 105px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 32px;
+  text-align: center;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  min-width: 103px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-5 {
+  height: 3px;
+  width: 65px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-6 {
+  align-self: flex-end;
+  height: 3px;
+  width: 30px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .want-to-work-together {
+  color: var(--white);
+  font-family: var(--font-family-figma_hand-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 33px;
+  min-height: 28px;
+  min-width: 265px;
+  text-align: center;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .lets-connect-mobile {
+  align-items: center;
+  background-color: var(--violet-red);
+  border-radius: 10px;
+  display: flex;
+  height: 25px;
+  justify-content: center;
+  margin-top: 31px;
+  width: 120px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .lets-connect {
+  color: var(--white);
+  font-family: var(--font-family-crimson_pro-regular);
+  font-size: 14px;
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .contact-me {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(225.25, 195.06, 158.61) 0%, rgb(52.83, 139.42, 234.81) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 126px;
+  min-height: 25px;
+  min-width: 104px;
+  text-align: center;
+  text-decoration: underline;
+  text-fill-color: transparent;
+  white-space: nowrap;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .saimaheswar0024gmailcom {
+  display: flex;
+  height: 29px;
+  margin-top: 20px;
+  width: 286px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .saimaheswar0024gmailcom-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 13.99%;
+  margin-right: 13.99%;
+  text-align: center;
+  white-space: nowrap;
+  width: 206px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .maheswarbarrenkalagmailcom {
+  display: flex;
+  height: 29px;
+  margin-top: 20px;
+  width: 342px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .maheswarbarrenkalagmailcom-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 14.04%;
+  margin-right: 14.04%;
+  text-align: center;
+  white-space: nowrap;
+  width: 246px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-2 {
+  height: 247px;
+  margin-top: 162px;
+  position: relative;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .rectangle-140 {
+  height: 226px;
+  top: 21px;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .copyrights {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  left: 131px;
+  padding: 5px;
+  position: absolute;
+  top: 214px;
+  width: 179px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .up {
+  cursor: pointer;
+  height: 63px;
+  left: 189px;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .portfolio-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  height: 1721px;
+  left: 93px;
+  position: absolute;
+  top: 5345px;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .portfolio {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 1px;
+  min-height: 36px;
+  width: 120px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .portfolio-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-container-1 {
+  gap: 9px;
+  min-width: 117px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-5-1 {
+  height: 3px;
+  width: 70px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-6-1 {
+  height: 3px;
+  width: 38px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .frame-211 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 35px 180px;
+  height: 1640px;
+  justify-content: center;
+  position: relative;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .full-stack {
+  background-image: url(../img/rectangle-157-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 254.66px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .text_full-stack {
+  align-items: flex-start;
+  display: flex;
+  gap: 945px;
+  height: 300px;
+  margin-left: 4px;
+  margin-top: 300px;
+  min-width: 259px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .open-link_svgrepocom {
+  height: 30px;
+  margin-left: -975px;
+  margin-top: -7018px;
+  width: 30px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .develop-container {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 0;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .full-stack-development {
+  min-height: 31px;
+  text-align: center;
+  width: 235px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .designing-developin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  text-align: center;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .ui-ux {
+  background-image: url(../img/rectangle-160-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  display: flex;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-190 {
+  align-items: flex-start;
+  display: flex;
+  gap: 945px;
+  height: 300px;
+  margin-top: 301px;
+  min-width: 259px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .open-link_svgrepocom-1 {
+  margin-top: -7353px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-3 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 15.7px;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .ui-ux-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.34px;
+  min-height: 31px;
+  text-align: center;
+  width: 78px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .crafting-digital-sol {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  text-align: center;
+  width: 222px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .ai {
+  background-image: url(../img/rectangle-158-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 254.66px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-189 {
+  align-items: flex-start;
+  display: flex;
+  gap: 945px;
+  height: 300px;
+  margin-left: 3.7px;
+  margin-top: 301px;
+  min-width: 258.66px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .open-link_svgrepocom-2 {
+  margin-top: -7688px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-4 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 10px;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .artificial-intelligence {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.34px;
+  min-height: 31px;
+  min-width: 199px;
+  text-align: center;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .revolutionizing-the-future-with-ai {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  text-align: center;
+  width: 234px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .software-architecture {
+  background-image: url(../img/rectangle-159-2@2x.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-191 {
+  align-items: flex-start;
+  display: flex;
+  gap: 945px;
+  height: 300px;
+  margin-left: 4px;
+  margin-top: 301px;
+  min-width: 259px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .open-link_svgrepocom-3 {
+  margin-top: -7992px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-5 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 20.0px;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .software-cloud-architecture {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.34px;
+  min-height: 62px;
+  text-align: center;
+  width: 211px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .building-the-backbon {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  text-align: center;
+  width: 214px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .management {
+  background-image: url(../img/rectangle-161-1@2x.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  display: flex;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+  width: 254.66px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-192 {
+  align-items: flex-start;
+  display: flex;
+  gap: 945px;
+  height: 300px;
+  margin-top: 301px;
+  min-width: 258.66px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .open-link_svgrepocom-4 {
+  margin-top: -8338px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-6 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgb(150.45, 0, 7.21) 100%);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 300px;
+  padding: 40px 22.7px;
+  width: 255px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .management-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 0.66px;
+  min-height: 31px;
+  min-width: 124px;
+  text-align: center;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .driving-innovation-t {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 60px;
+  text-align: center;
+  width: 209px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .skills-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  height: 1337px;
+  left: 92px;
+  position: absolute;
+  top: 3946px;
+  width: 263px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .skills {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: -5px;
+  min-height: 37px;
+  width: 74px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .skills-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-container-2 {
+  gap: 6px;
+  min-width: 71px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-5-2 {
+  height: 3px;
+  width: 40px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-6-2 {
+  align-self: flex-end;
+  height: 3px;
+  width: 25px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .mobile-skills {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 36.2px;
+  height: 1255.2px;
+  width: 263px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .mobile-skills-item {
+  align-items: flex-start;
+  background-color: var(--parchment);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 179.04px;
+  padding: 11.9px 10px;
+  width: 263px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector {
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 6px;
+  width: 50px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .software-engineering {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 11.0px;
+  margin-top: 15px;
+  min-height: 28px;
+  min-width: 212px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .learn-more {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 41px;
+  min-height: 15px;
+  min-width: 74px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .coding {
+  height: 49px;
+  margin-left: 10px;
+  margin-top: 6px;
+  width: 53px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .programming-development {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 10px;
+  margin-top: 16px;
+  min-height: 56px;
+  width: 172px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .learn-more-1 {
+  align-self: flex-end;
+  margin-top: 13px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .q3-icons {
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 6px;
+  width: 48px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .emerging-technology {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 8.0px;
+  margin-top: 16px;
+  min-height: 28px;
+  min-width: 215px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .design-tools-ruler-pen-pencil_svgrepocom {
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 6px;
+  width: 48px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .design-tools {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 10px;
+  margin-top: 16px;
+  min-height: 28px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .cloud {
+  align-items: flex-end;
+  background-color: var(--parchment);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 179.04px;
+  padding: 11.9px 10px;
+  width: 263px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .cloud-computing_svgrepocom {
+  align-self: flex-start;
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 6px;
+  width: 48px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .cloud-infrastructure {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 11px;
+  margin-top: 16px;
+  min-height: 28px;
+  min-width: 222px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .learn-more-2 {
+  margin-top: 41px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .layer-2 {
+  height: 49px;
+  margin-left: 10px;
+  margin-top: 6px;
+  width: 47px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .project-management-business {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 7.0px;
+  margin-top: 17px;
+  min-height: 56px;
+  width: 216px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .about-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 3871px;
+  left: 0;
+  position: absolute;
+  top: 46px;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .about {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 3px;
+  min-height: 36px;
+  width: 83px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .about-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-container-3 {
+  gap: 6px;
+  min-width: 81px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-5-3 {
+  height: 3px;
+  width: 50px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-6-3 {
+  height: 3px;
+  width: 25px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .frame-190 {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px 40px;
+  height: 2965px;
+  justify-content: center;
+  position: relative;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .performance {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 283px;
+  justify-content: flex-end;
+  position: relative;
+  width: 269px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-19 {
+  height: 163.92px;
+  position: relative;
+  width: 163.92px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-7 {
+  align-items: flex-start;
+  background-image: url(../img/star-1-4@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  left: 22px;
+  min-width: 136px;
+  padding: 29.2px 22.0px;
+  position: relative;
+  top: 28px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .frame-16 {
+  height: 50px;
+  width: 75px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .performance-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .delivering-lightning {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .frame-190-item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 283px;
+  justify-content: flex-end;
+  position: relative;
+  width: 238px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-25 {
+  height: 163.92px;
+  position: relative;
+  width: 158.26px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-8 {
+  align-items: flex-start;
+  background-image: url(../img/star-2-8@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  left: 21px;
+  min-width: 132px;
+  padding: 31.7px 30.3px;
+  position: relative;
+  top: 28px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .code-snippet-02_svgrepocom {
+  height: 45px;
+  width: 55px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .dynamic {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .websites-dont-have {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 235px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-122 {
+  height: 164.67px;
+  position: relative;
+  width: 165.88px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-container {
+  background-image: url(../img/star-1-5@2x.png);
+  background-size: 100% 100%;
+  height: 121px;
+  left: 22px;
+  position: relative;
+  top: 28px;
+  width: 138px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-1 {
+  height: 50px;
+  left: 36px;
+  position: absolute;
+  top: 29px;
+  width: 51px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-2 {
+  height: 33px;
+  left: 48px;
+  position: absolute;
+  top: 38px;
+  width: 8px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-3 {
+  height: 33px;
+  left: 66px;
+  position: absolute;
+  top: 38px;
+  width: 8px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .artificial-intelligence-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .developing-intellige {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 238px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group {
+  height: 163.92px;
+  position: relative;
+  width: 166.02px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-9 {
+  align-items: flex-start;
+  background-image: url(../img/star-3-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  left: 22px;
+  min-width: 138px;
+  padding: 24.2px 23.3px;
+  position: relative;
+  top: 28px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .responsive-design-symbol_svgrepocom {
+  height: 63px;
+  width: 75px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .responsive {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .building-websites-th {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 238px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-10 {
+  align-items: flex-start;
+  background-image: url(../img/star-3-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  left: 22px;
+  min-width: 138px;
+  padding: 26.2px 40.5px;
+  position: relative;
+  top: 28px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .idea_svgrepocom {
+  height: 55px;
+  width: 41px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .interactive {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .surname {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 238px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-12 {
+  height: 163.92px;
+  position: relative;
+  width: 166.02px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .overlap-group-11 {
+  align-items: flex-start;
+  background-image: url(../img/star-3-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 120px;
+  left: 22px;
+  min-width: 138px;
+  padding: 26.7px 35.5px;
+  position: relative;
+  top: 28px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-4 {
+  height: 49px;
+  width: 50px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .cloud-computing {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .leveraging-cloud-pla {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 238px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .software-architect {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 210.66px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .crafting-robust-and {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 238px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-container-1 {
+  background-image: url(../img/star-4-5@2x.png);
+  width: 138px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-5 {
+  height: 62px;
+  left: 39px;
+  position: absolute;
+  top: 23px;
+  width: 46px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-6 {
+  height: 8px;
+  left: 66px;
+  position: absolute;
+  top: 43px;
+  width: 8px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-7 {
+  height: 7px;
+  left: 49px;
+  position: absolute;
+  top: 60px;
+  width: 7px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-8 {
+  height: 20px;
+  left: 50px;
+  position: absolute;
+  top: 43px;
+  width: 19px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-9 {
+  height: 8px;
+  left: 64px;
+  position: absolute;
+  top: 58px;
+  width: 9px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .mobile-application {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 216.73px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .designing-and-develo {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 238px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .group-126 {
+  height: 163.91px;
+  position: relative;
+  width: 165.93px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-container-2 {
+  background-image: url(../img/star-2-10@2x.png);
+  width: 137px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-10 {
+  height: 40px;
+  left: 31px;
+  position: absolute;
+  top: 33px;
+  width: 59px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-11 {
+  height: 10px;
+  left: 70px;
+  position: absolute;
+  top: 27px;
+  width: 10px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-12 {
+  height: 8px;
+  left: 38px;
+  position: absolute;
+  top: 40px;
+  width: 14px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .project-management {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .guiding-teams-to-ach {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 237.87px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-container-3 {
+  background-image: url(../img/star-2-11@2x.png);
+  width: 138px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-13 {
+  height: 47px;
+  left: 37px;
+  position: absolute;
+  top: 31px;
+  width: 47px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-14 {
+  height: 5px;
+  left: 42px;
+  position: absolute;
+  top: 35px;
+  width: 5px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-15 {
+  height: 5px;
+  left: 48px;
+  position: absolute;
+  top: 35px;
+  width: 5px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-16 {
+  height: 5px;
+  left: 53px;
+  position: absolute;
+  top: 35px;
+  width: 5px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-17 {
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 45px;
+  width: 31px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-18 {
+  height: 16px;
+  left: 54px;
+  position: absolute;
+  top: 57px;
+  width: 14px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .product-design {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .creating-innovative {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 238px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .frame-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 35px 274px;
+  height: 870px;
+  justify-content: center;
+  padding: 40px 0px;
+  position: relative;
+  width: 440px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .dp {
+  height: 400px;
+  object-fit: cover;
+  position: relative;
+  width: 355.6px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .whos-this-guy {
+  color: var(--white);
+  font-family: var(--font-family-times_new_roman-bold);
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .im-a-tech-obsessed {
+  color: transparent;
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 385px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .span-1 {
+  color: var(--tutu);
+}
+
+.iphone-16-pro-max-1-all-breakpoints .span1-1 {
+  color: var(--black);
+  font-family: var(--font-family-times_new_roman-bolditalic);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .span2 {
+  color: var(--violet-red);
+  font-family: var(--font-family-times_new_roman-bolditalic);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .lets-create-somethi {
+  color: var(--di-serria-2);
+  font-family: var(--font-family-times_new_roman-bolditalic);
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 438px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .full-stack-1 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .learn-more-3 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 15px;
+  min-width: 74px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .line-container-4 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .open-link_svgrepocom-5 {
+  height: 30px;
+  margin-left: -975px;
+  width: 30px;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .rectangle {
+  left: 0;
+  position: absolute;
+}
+
+.iphone-16-pro-max-1-all-breakpoints .vector-container-4 {
+  background-size: 100% 100%;
+  height: 120px;
+  left: 22px;
+  position: relative;
+  top: 28px;
+}
+@media screen and (max-width: 1439px) {
+  .screen.desktop-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.iphone-16-pro-max-1-all-breakpoints { 
+    display: none;
+   }
+}

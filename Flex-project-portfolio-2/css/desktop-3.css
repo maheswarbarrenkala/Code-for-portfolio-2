@@ -1,0 +1,365 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 7353px;
+  width: 1440px;
+}
+
+.desktop-3 .homepage-header {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(217, 160, 91) 35.56%, rgb(27, 38, 79) 72.17%);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 985px;
+  padding: 0 84px;
+  width: 1440px;
+}
+
+.desktop-3 .unnamed__1_-removebg-preview-1 {
+  height: 60px;
+  object-fit: cover;
+  width: 63px;
+}
+
+.desktop-3 .return-to-hompage {
+  display: flex;
+  height: 28px;
+  width: 199px;
+}
+
+.desktop-3 .overlap-group6 {
+  align-items: flex-start;
+  background-image: url(../img/background-3-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 7293px;
+  width: 1440px;
+}
+
+.desktop-3 .portfolio-page-title {
+  align-items: center;
+  background-image: url(../img/rectangle-181-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 103px;
+  height: 770px;
+  width: 1440px;
+}
+
+.desktop-3 .building-software-so {
+  color: var(--white);
+  font-family: var(--font-family-source_serif_pro);
+  font-size: 35px;
+  font-weight: 600;
+  height: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 177px;
+  width: 888px;
+}
+
+.desktop-3 .this-showcases-my-jo {
+  color: var(--white);
+  font-family: var(--font-family-source_serif_pro);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 198px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: justify;
+  width: 888px;
+}
+
+.desktop-3 .list-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 42px;
+  height: 6113px;
+  min-width: 1398px;
+}
+
+.desktop-3 .side-list {
+  background: linear-gradient(180deg, rgb(97, 97, 97) 0%, rgba(217, 160, 91, 0.5) 3%);
+  display: flex;
+  height: 823px;
+  justify-content: center;
+  width: 318px;
+}
+
+.desktop-3 .portfolio-list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 168px;
+  min-height: 324px;
+  width: 278px;
+}
+
+.desktop-3 .overlap-group-1 {
+  align-items: center;
+  background-image: url(../img/union-4@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 40px;
+  min-width: 278px;
+  padding: 0 6px;
+}
+
+.desktop-3 .full-stack-development {
+  color: var(--di-serria-2);
+  font-family: var(--font-family-crimson_text-semibold);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  height: 26px;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-3 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 252px;
+}
+
+.desktop-3 .overlap-group {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(217, 160, 91, 0) 93.4%, rgb(115, 84.79, 48.23) 100%);
+  display: flex;
+  height: 40px;
+  min-width: 250px;
+  padding: 0 6px;
+}
+
+.desktop-3 .product-design-uiux {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-3 .artificial-intelligence {
+  height: 26px;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-3 .software-cloud-architecture {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-3 .management {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 238px;
+}
+
+.desktop-3 .work-exp-list {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 135px;
+  height: 6033px;
+  width: 1038px;
+}
+
+.desktop-3 .full-stack {
+  background-image: url(../img/rectangle-182-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1560px;
+  justify-content: center;
+  width: 1038px;
+}
+
+.desktop-3 .full-stack-developme {
+  color: var(--black-2);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 1514px;
+  margin-top: 23px;
+  width: 950px;
+}
+
+.desktop-3 .product-design {
+  background-image: url(../img/rectangle-183-7.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1066px;
+  justify-content: center;
+  width: 1038px;
+}
+
+.desktop-3 .product-design-uiux-1 {
+  height: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 23px;
+  width: 950px;
+}
+
+.desktop-3 .span0 {
+  text-decoration: underline;
+}
+
+.desktop-3 .ai {
+  background-image: url(../img/rectangle-183-6.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1154px;
+  justify-content: center;
+  width: 1038px;
+}
+
+.desktop-3 .artificial-intellige {
+  color: var(--black-2);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 1108px;
+  margin-top: 23px;
+  width: 950px;
+}
+
+.desktop-3 .software-and-cloud-arch {
+  background-image: url(../img/rectangle-183-5.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 832px;
+  justify-content: center;
+  width: 1038px;
+}
+
+.desktop-3 .software-and-cloud-a {
+  height: 786px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 23px;
+  width: 950px;
+}
+
+.desktop-3 .management-1 {
+  background-image: url(../img/rectangle-183-4.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 881px;
+  justify-content: center;
+  width: 1038px;
+}
+
+.desktop-3 .management-project {
+  height: 835px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 23px;
+  width: 950px;
+}
+
+.desktop-3 .bottom {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 0;
+  margin-top: 190px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-3 .overlap-group5 {
+  height: 219px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-3 .rectangle-140 {
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 1440px;
+}
+
+.desktop-3 .copyrights {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  height: 33px;
+  justify-content: center;
+  left: 630px;
+  padding: 5px;
+  position: absolute;
+  top: 186px;
+  width: 179px;
+}
+
+.desktop-3 .maheswar {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.59px;
+  margin-left: -1.00px;
+  margin-top: -2.59px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop-3 .number {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.59px;
+  margin-right: -1.00px;
+  margin-top: -2.59px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop-3 .icons {
+  align-items: flex-end;
+  display: flex;
+  gap: 20px;
+  height: 50px;
+  left: 505px;
+  min-width: 430px;
+  position: absolute;
+  top: 94px;
+}
+
+.desktop-3 .icons-item {
+  height: 50px;
+  margin-bottom: 0;
+  width: 55px;
+}
+
+.desktop-3 .up {
+  height: 67px;
+  left: 682px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.desktop-3 .artificial {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-3 .full-stack-1 {
+  letter-spacing: 0;
+  line-height: normal;
+}

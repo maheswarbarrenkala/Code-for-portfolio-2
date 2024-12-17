@@ -1,0 +1,576 @@
+/* screen - desktop-2 */
+
+.desktop-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 5990px;
+  width: 1440px;
+}
+
+.desktop-2 .overlap-group6 {
+  align-items: center;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(3, 1, 77, 0.9) 0%, rgb(0, 122, 255) 24.4%, rgb(16, 25, 58) 55.91%, rgba(217, 160, 91, 0.95) 78.87%, rgb(3, 0, 77) 100%);
+  display: flex;
+  flex-direction: column;
+  min-height: 5990px;
+  width: 1440px;
+}
+
+.desktop-2 .homepage-header {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(217, 160, 91) 35.56%, rgb(27, 38, 79) 72.17%);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 781px;
+  padding: 0 84px;
+  width: 1440px;
+}
+
+.desktop-2 .unnamed__1_-removebg-preview-1 {
+  height: 60px;
+  object-fit: cover;
+  width: 63px;
+}
+
+.desktop-2 .frame-211 {
+  align-items: center;
+  display: flex;
+  gap: 60px;
+  height: 30px;
+  width: 403px;
+}
+
+.desktop-2 .certifications {
+  cursor: pointer;
+  display: flex;
+  height: 28px;
+  width: 138px;
+}
+
+.desktop-2 .certifications-1 {
+  flex: 1;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.desktop-2 .return-to-hompage {
+  display: flex;
+  height: 28px;
+  width: 199px;
+}
+
+.desktop-2 .a-blend-of-technical {
+  color: var(--cultured-pearl);
+  font-family: var(--font-family-source_serif_pro);
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 130px;
+  min-height: 50px;
+  min-width: 972px;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.desktop-2 .frame-193 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  height: 2752px;
+  margin-right: 1.0px;
+  margin-top: 132px;
+  width: 1223px;
+}
+
+.desktop-2 .frame-193-item {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2px;
+  min-width: 1225px;
+}
+
+.desktop-2 .overlap-group {
+  height: 417px;
+  position: relative;
+  width: 1223px;
+}
+
+.desktop-2 .rectangle-175 {
+  background-color: var(--black-4);
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #00000040;
+  height: 404px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 1210px;
+}
+
+.desktop-2 .rectangle-174 {
+  background: linear-gradient(180deg, rgb(225.25, 195.06, 158.61) 0%, rgb(52.83, 139.42, 234.81) 100%);
+  border-radius: 10px;
+  height: 406px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1213px;
+}
+
+.desktop-2 .group-201-1 {
+  height: 35px;
+  left: 59px;
+  position: absolute;
+  top: 330px;
+  width: 583px;
+}
+
+.desktop-2 .group-191 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 224px;
+  top: 92px;
+  width: 664px;
+}
+
+.desktop-2 .group-191-item {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -10px;
+  width: 654px;
+}
+
+.desktop-2 .group-191-item-1 {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -10px;
+  width: 654px;
+}
+
+.desktop-2 .programming-and-development {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.desktop-2 .rectangle-176 {
+  height: 350px;
+  left: 804px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 350px;
+}
+
+.desktop-2 .group-201 {
+  height: 35px;
+  top: 320px;
+  width: 583px;
+}
+
+.desktop-2 .group-192 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 172px;
+  top: 92px;
+  width: 660px;
+}
+
+.desktop-2 .expertise-agile-sc {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .development-advance {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .projects-document-c {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .software-engineering {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.desktop-2 .group-192-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 196px;
+  left: 59px;
+  position: absolute;
+  top: 92px;
+  width: 660px;
+}
+
+.desktop-2 .specialization-aim {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .tools-and-frameworks {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .projects-fake-news {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .artificial-intellige {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.desktop-2 .uiux-design-user-i {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .tools-figma-adobe {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .projects-inventory {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .design-and-tools {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.desktop-2 .rectangle-176-1 {
+  height: 350px;
+  left: 804px;
+  position: absolute;
+  top: 28px;
+  width: 350px;
+}
+
+.desktop-2 .platforms-aws-amaz {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .cloud-tools-aws-sch {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .projects-inventory-1 {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -6px;
+  width: 654px;
+}
+
+.desktop-2 .cloud-and-infrastructure {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.desktop-2 .group-192-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 210px;
+  left: 59px;
+  position: absolute;
+  top: 92px;
+  width: 662px;
+}
+
+.desktop-2 .group-192-item {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -8px;
+  width: 654px;
+}
+
+.desktop-2 .tools-jira-click-u {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -8px;
+  width: 654px;
+}
+
+.desktop-2 .project-management-and-business {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.desktop-2 .certificates {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 2192px;
+  margin-right: 17.0px;
+  margin-top: 107px;
+  width: 1207px;
+}
+
+.desktop-2 .overlap-group-1 {
+  height: 50px;
+  position: relative;
+  width: 246px;
+}
+
+.desktop-2 .certifications-2 {
+  color: var(--white);
+  font-family: var(--font-family-source_serif_pro);
+  font-size: 40px;
+  font-weight: 600;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 246px;
+}
+
+.desktop-2 .line-5 {
+  left: 0;
+  width: 150px;
+}
+
+.desktop-2 .line-6 {
+  left: 160px;
+  width: 86px;
+}
+
+.desktop-2 .flex-row-1 {
+  margin-top: 43px;
+}
+
+.desktop-2 .aws-prompt-engineering {
+  height: 484px;
+  width: 537px;
+}
+
+.desktop-2 .automation {
+  height: 484px;
+  width: 540px;
+}
+
+.desktop-2 .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 10px;
+  margin-top: 61px;
+  min-width: 1070px;
+}
+
+.desktop-2 .html {
+  height: 484px;
+  width: 540px;
+}
+
+.desktop-2 .css {
+  height: 484px;
+  width: 520px;
+}
+
+.desktop-2 .flex-row-2 {
+  margin-top: 61px;
+}
+
+.desktop-2 .java-niit {
+  height: 484px;
+  width: 537px;
+}
+
+.desktop-2 .oracle {
+  height: 484px;
+  width: 540px;
+}
+
+.desktop-2 .python {
+  height: 464px;
+  width: 540px;
+}
+
+.desktop-2 .maths {
+  height: 464px;
+  width: 520px;
+}
+
+.desktop-2 .frame-203 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 272px;
+  width: 1440px;
+}
+
+.desktop-2 .overlap-group-2 {
+  height: 294px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-2 .rectangle-140 {
+  height: 272px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 1440px;
+}
+
+.desktop-2 .copyrights {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  left: 630px;
+  padding: 5px;
+  position: absolute;
+  top: 258px;
+  width: 179px;
+}
+
+.desktop-2 .maheswar {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -1.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop-2 .number {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.desktop-2 .up {
+  height: 67px;
+  left: 682px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.desktop-2 .icons {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 55px;
+  left: 505px;
+  min-width: 430px;
+  position: absolute;
+  top: 126px;
+}
+
+.desktop-2 .icons-item {
+  height: 55px;
+  width: 55px;
+}
+
+.desktop-2 .certifications-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-2 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  min-width: 1087px;
+}
+
+.desktop-2 .group {
+  left: 59px;
+  position: absolute;
+}
+
+.desktop-2 .line {
+  height: 4px;
+  position: absolute;
+  top: 46px;
+}

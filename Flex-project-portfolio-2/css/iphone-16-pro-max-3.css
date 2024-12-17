@@ -1,0 +1,235 @@
+/* screen - iphone-16-pro-max-3 */
+
+.iphone-16-pro-max-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 9146px;
+  overflow: hidden;
+  width: 440px;
+}
+
+.iphone-16-pro-max-3 .group-184 {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(217, 160, 91) 35.56%, rgb(27, 38, 79) 72.17%);
+  display: flex;
+  flex: 1;
+  gap: 285px;
+  min-width: 440px;
+  padding: 0 21px;
+}
+
+.iphone-16-pro-max-3 .unnamed__1_-removebg-preview-1 {
+  height: 60px;
+  object-fit: cover;
+  width: 60px;
+}
+
+.iphone-16-pro-max-3 .overlap-group7 {
+  height: 9086px;
+  position: relative;
+  width: 444px;
+}
+
+.iphone-16-pro-max-3 .rectangle-193 {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(3, 1, 77) 0%, rgb(0, 122, 255) 35.4%, rgb(217, 160, 91) 64.9%, rgb(3, 0, 77) 100%, rgb(16, 25, 58) 100%);
+  height: 9086px;
+  top: 0;
+}
+
+.iphone-16-pro-max-3 .overlap-group {
+  height: 247px;
+  left: 0;
+  position: absolute;
+  top: 8839px;
+  width: 440px;
+}
+
+.iphone-16-pro-max-3 .rectangle-140 {
+  height: 226px;
+  top: 21px;
+}
+
+.iphone-16-pro-max-3 .copyrights {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  left: 131px;
+  padding: 5px;
+  position: absolute;
+  top: 214px;
+  width: 179px;
+}
+
+.iphone-16-pro-max-3 .up {
+  cursor: pointer;
+  height: 63px;
+  left: 189px;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.iphone-16-pro-max-3 .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-182-2.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1106px;
+  left: 30px;
+  min-width: 380px;
+  padding: 0 27px;
+  position: absolute;
+  top: 7574px;
+}
+
+.iphone-16-pro-max-3 .management-project {
+  height: 1052px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 326px;
+}
+
+.iphone-16-pro-max-3 .span {
+  text-decoration: underline;
+}
+
+.iphone-16-pro-max-3 .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/rectangle-182-3.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1127px;
+  left: 30px;
+  min-width: 380px;
+  padding: 0 27px;
+  position: absolute;
+  top: 6407px;
+}
+
+.iphone-16-pro-max-3 .software-and-cloud-a {
+  height: 1073px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 326px;
+}
+
+.iphone-16-pro-max-3 .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/rectangle-182-4.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1589px;
+  left: 30px;
+  min-width: 380px;
+  padding: 0 27px;
+  position: absolute;
+  top: 4778px;
+}
+
+.iphone-16-pro-max-3 .artificial-intellige {
+  color: var(--black-2);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  height: 1535px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 326px;
+}
+
+.iphone-16-pro-max-3 .overlap-group4 {
+  align-items: center;
+  background-image: url(../img/rectangle-182-5.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1421px;
+  left: 30px;
+  min-width: 380px;
+  padding: 0 27px;
+  position: absolute;
+  top: 3317px;
+}
+
+.iphone-16-pro-max-3 .product-design-uiux {
+  height: 1367px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 326px;
+}
+
+.iphone-16-pro-max-3 .overlap-group5 {
+  align-items: center;
+  background-image: url(../img/rectangle-182-6.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 2240px;
+  left: 30px;
+  min-width: 380px;
+  padding: 0 27px;
+  position: absolute;
+  top: 1037px;
+}
+
+.iphone-16-pro-max-3 .full-stack-developme {
+  color: var(--white);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  height: 2186px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 326px;
+}
+
+.iphone-16-pro-max-3 .portfolio-list {
+  height: 292px;
+  left: 0;
+  position: absolute;
+  top: 725px;
+  width: 440px;
+}
+
+.iphone-16-pro-max-3 .overlap-group6 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-194.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0;
+  min-height: 725px;
+  padding: 68px 42px;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.iphone-16-pro-max-3 .building-software-so {
+  color: var(--white);
+  font-family: var(--font-family-source_serif_pro);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 60px;
+  text-align: center;
+  width: 355px;
+}
+
+.iphone-16-pro-max-3 .this-showcases-my-jo {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 230px;
+  text-align: center;
+  width: 355px;
+}
+
+.iphone-16-pro-max-3 .rectangle {
+  left: 0;
+  position: absolute;
+  width: 440px;
+}
